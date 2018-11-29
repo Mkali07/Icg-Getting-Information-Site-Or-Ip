@@ -2,7 +2,7 @@
 Get info of ip or url With the help viewdns,yougetsignal,ipleak,and module python and more sites
 
 
-![Watch the video](https://raw.githubusercontent.com/Mkali07/Icg-Getting-Information-Site-Or-Ip/master/Screen.png)]
+![Watch the video](https://raw.githubusercontent.com/Mkali07/Icg-Getting-Information-Site-Or-Ip/master/Screen.png)
 
 
 Services:
